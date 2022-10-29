@@ -1,5 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 #This is a group project
-import pandas as pd 
+#libraries
+import pandas as pd
 import numpy as np
+from matplotlib import pyplot as plt
+import seaborn as sns
+
